@@ -6,7 +6,8 @@ public class PracticeNtest
 	
 	{
 
-	System.out.println("Hello welcome to world of GitHub repository");
+	System.out.println("first Hello world program of of GitHub repository");
+	//System.out.println("second Hello world program of of GitHub repository");
 	
 	}
 	
